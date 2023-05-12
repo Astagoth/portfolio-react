@@ -18,14 +18,14 @@ class AboutMe extends Component {
                     <img src={profilePic} className='profile-pic' alt="My profile" />
                 </div>
 
-                <div className='title'>
+                <div className='row title'>
                     Non-specialized Developer
                 </div>
                 <section>
-                    <p>
+                    <p className='text-center'>
                         Hi, I'm Dufour Jordan. I'm still learning things.
                     </p>
-                    <p>
+                    <p className='text-center'>
                         I have basic knowledge on many languages like :
                     </p>
                     <div className='stacks'>

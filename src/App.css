@@ -35,6 +35,19 @@
 }
 
 .tech-logo {
-  width: 300px;
+  width: 100px;
   margin-right: 50px;
+}
+
+.profile-pic {
+  transform: scale(.80);
+  border-radius: 50%;
+}
+
+.footer-page {
+  height: 20px;
+}
+
+.footer-icon {
+  transform: scale(2);
 }
