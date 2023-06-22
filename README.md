@@ -1,3 +1,5 @@
+# Note : I'm just a beginner in ReactJS so I just wanted to try something
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
